@@ -64,45 +64,45 @@ API Routes:
 
                             Vendor Register:
 
-  https://backend-nodejs-suby.onrender.com/vendor/register
+  https://restaurant-backend-l4pp.onrender.com/vendor/register
 
 Vendor Login:
 
-  https://backend-nodejs-suby.onrender.com/ vendor/login
+  https://restaurant-backend-l4pp.onrender.com/ vendor/login
 
 Get All vendor details with relations records:
 
 {API used for React client side frontend}
 
-  https://backend-nodejs-suby.onrender.com/vendor/all-vendors
+ https://restaurant-backend-l4pp.onrender.com/vendor/all-vendors
 
- https://backend-nodejs-suby.onrender.com/vendor/single-vendor/:vendorId
+https://restaurant-backend-l4pp.onrender.com/vendor/single-vendor/:vendorId
 
 Image Uploads:
 
 
-  https://backend-nodejs-suby.onrender.com/uploads/:imageName
+  https://restaurant-backend-l4pp.onrender.com/uploads/:imageName
 
 Firm:
 
                 Add Firm to Vendor by JW Token:
 
- https://backend-nodejs-suby.onrender.com/firm/add-firm
+ https://restaurant-backend-l4pp.onrender.com/firm/add-firm
 
 Delete Firm by Id:
 
-  https://backend-nodejs-suby.onrender.com/firm/:firmId
+  https://restaurant-backend-l4pp.onrender.com/firm/:firmId
 
 Products:
 
                 Add Product to Firm by Id:
 
-  https://backend-nodejs-suby.onrender.com/product/add-product/:firmId
+  https://restaurant-backend-l4pp.onrender.com/product/add-product/:firmId
 
 Get Products by FirmId:
 
- https://backend-nodejs-suby.onrender.com/product/:firmId/products
+ https://restaurant-backend-l4pp.onrender.com/product/:firmId/products
 
 Delete Product by Id:
 
-  https://backend-nodejs-suby.onrender.com/product/:productId
+  https://restaurant-backend-l4pp.onrender.com/product/:productId
